@@ -1,0 +1,2 @@
+course="Python for beginners"
+print('Python'in course) # in operatori boolean turidagi operator shu uchun true yoki fulse qaytaradi. Shu so'z shu o'zgaruvchining tarkibida bor yoki yo'qligini tekshirsak bo'ladi in orqali.
